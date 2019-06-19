@@ -1,0 +1,15 @@
+name: geo
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - ipywidgets
+  - jupyter
+  - jupyter_contrib_nbextensions
+  - jupyter_nbextensions_configurator
+  - jupyter_core
+  - notebook
+  - numpy
+  - pandas
+
+
